@@ -233,7 +233,7 @@ body {
 .funcionamento {
   background-color: #000;
   padding: 80px 20px;
-background: url('/img/Como funciona.png') no-repeat center 100% / cover;
+background: url('img/Como funciona.png') no-repeat center 100% / cover;
 }
 
 .funcionamento .container {
@@ -399,7 +399,7 @@ background: url('/img/Como funciona.png') no-repeat center 100% / cover;
 /* Lado direito (fundo quadriculado transparente) */
 .contato-imagem {
   width: 60%;
-  background: url('/img/imgContato.jpg') no-repeat center center / cover;
+  background: url('img/imgContato.jpg') no-repeat center center / cover;
   background-size: 785px 1020px;
   background-position: 0 0, 0 20px, 20px -20px, -20px 0;
 }
