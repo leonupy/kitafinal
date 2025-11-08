@@ -125,7 +125,7 @@ body {
   height: 300px;
   margin: 0 auto 40px;
   border-radius: 8px;
-  background: url('/img/passos.png') no-repeat center center / cover;
+  background: url('img/passos.png') no-repeat center center / cover;
   box-shadow: 0 0 15px rgba(163, 66, 255, 0.3);
 }
 
@@ -288,3 +288,4 @@ body {
 .mark {
   color: #1f0029;
 }
+
